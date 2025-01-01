@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Haust Testnet",
+    "rpcUrl": "https://rpc-test.haust.network",
+    "chainId": "1570754601",
+    "symbol": "HAUST",
+    "explorer": "https://haust-testnet-blockscout.eu-north-2.gateway.fm"
+  },
+  {
+    "name": "Sepolia Testnet",
+    "rpcUrl": "https://rpc.sepolia.org",
+    "chainId": "11155111",
+    "symbol": "ETH",
+    "explorer": "https://sepolia.etherscan.io"
+  }
+]
