@@ -1,4 +1,4 @@
-# Chainbase Network Testnet Transaction & Contracts Deploy Bot by HiddenGem
+# Haust Network Testnet Transaction & Contracts Deploy Bot by HiddenGem
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Wellcome+To+HiddenGem)](https://git.io/typing-svg)
 
