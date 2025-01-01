@@ -17,12 +17,12 @@
 ### 2. Clone Repository
 
 ```bash
-git clone https://github.com/BidyutRoy2/Chainbase-Testnet.git
+git clone https://github.com/BidyutRoy2/Haust-Network-Testnet.git
 ```
 
 ### 3. Go To Bot Directory
 ```
-cd Chainbase-Testnet
+cd Haust-Network-Testnet
 cd Transaction-Bot
 ```
 
@@ -62,7 +62,7 @@ npm start
 
 ### 2. Go To Bot Directory
 ```
-cd Chainbase-Testnet
+cd Haust-Network-Testnet
 cd Contracts-Deploy-Bot
 ```
 
